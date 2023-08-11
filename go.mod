@@ -31,7 +31,7 @@ require (
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
 	golang.org/x/net v0.0.0-20210924151903-3ad01bbaa167
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210927052749-1cf2251ac284
+	golang.org/x/sys v0.1.0
 )
 
 require (
